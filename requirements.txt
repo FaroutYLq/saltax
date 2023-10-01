@@ -1,4 +1,4 @@
-strax==1.5.2
+strax==1.5.4
 straxen==2.1.2
 wfsim==1.0.2
 scipy
