@@ -3,4 +3,4 @@ git+https://github.com/AxFoundation/strax
 git+https://github.com/XENONnT/straxen
 git+https://github.com/XENONnT/ax_env
 pytest-xdist
-xedocs==0.2.21
+xedocs==0.2.25
