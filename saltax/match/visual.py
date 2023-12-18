@@ -189,3 +189,4 @@ def plot_wf(ind, st_salt, st_simu, st_data, runid, matched_simu,
     axs[1,1].set_xlabel("Time [10ns]")
     axs[1,1].legend()
     fig.show()
+    
